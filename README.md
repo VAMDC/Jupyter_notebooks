@@ -1,2 +1,2 @@
-# Jupyter_notebooks
-Computational notebooks to extract data from the VAMDC infrastructure
+# Jupyter notebooks for VAMDC
+This repository contains computational notebooks implementing VAMDC functionalities to interact with the VAMDC infrastructure and for extracting/processing data
